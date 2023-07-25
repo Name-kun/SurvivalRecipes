@@ -1,0 +1,11 @@
+name: SurvivalRecipes
+version: ${project.version}
+main: masa3mc.survivalrecipes.SurvivalRecipes
+api-version: 1.19
+authors: [NameKun]
+description: This plugin adds the recipes for Survival Server.
+
+commands:
+  votecoin:
+    permission: votecoin
+    usage: /votecoin
